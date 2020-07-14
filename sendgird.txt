@@ -1,0 +1,6 @@
+Server	smtp.sendgrid.net
+Ports	
+25, 587	(for unencrypted/TLS connections)
+465	(for SSL connections)
+Username	apikey
+Password	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
